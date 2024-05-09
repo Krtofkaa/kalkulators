@@ -19,6 +19,7 @@ def btnCommand(command):
     return 0
 
 
+
 btn0=Button(mansLogs,text='0',padx='40',pady='20')
 btn1=Button(mansLogs,text='1',padx='40',pady='20')
 btn2=Button(mansLogs,text='2',padx='40',pady='20')
